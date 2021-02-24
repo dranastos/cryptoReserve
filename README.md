@@ -1,4 +1,4 @@
-# Klondike finance protocol
+# cryptoReserve finance protocol
 
 [![Coverage Status](https://coveralls.io/repos/github/klondike-finance/klondike-protocol-v2/badge.svg?branch=master)](https://coveralls.io/github/klondike-finance/klondike-protocol-v2?branch=master)
 
